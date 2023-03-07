@@ -1,0 +1,14 @@
+.button-green {
+  background-color: #3C6255;
+  padding: 10px 15px;
+  border-radius: 7px;
+  opacity: 0.8;
+  color: #FFFFFF;;
+  font-family: "Roboto";
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.button-green:hover {
+  opacity: 1;
+}
